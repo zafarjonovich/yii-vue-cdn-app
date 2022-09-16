@@ -1,0 +1,10 @@
+{
+  "name": "zafarjonovich/yii-vue-cdn-app",
+  "description": "Yii Vue CDN App",
+  "type": "package",
+  "autoload": {
+    "psr-4": {
+      "zafarjonovich\\YiiVueCdnApp\\": "src"
+    }
+  }
+}
